@@ -2,7 +2,7 @@
 
 - 🌱 Currently **learning** Node.js with [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs)
 - 🔎 **Check out** my personal GitHub profile [@GianlucaCioni](https://github.com/GianlucaCioni/GianlucaCioni)
-- 📫 You may **reach me** by email [g.cioni@greenvulcano.com](mailto:g.cioni@greenvulcano.com)
+- 📫 You may **reach me** by email [gianluca.cioni@frontiere.io](mailto:gianluca.cioni@frontiere.io)
 - 🐦 Feel free to **check out** my Twitter [@gianlucacioni93](https://twitter.com/gianlucacioni93/)
 <!---
 G-Cioni/G-Cioni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
