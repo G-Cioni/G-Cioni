@@ -28,7 +28,7 @@ const gianluca = {
 ## 📫 How to reach me...
 
 - Twitter: [@gianluca-cioni](https://twitter.com/gianluca-cioni)
-- Email: [gianluca.cioni@frontiere.io](mailto:gianlucacioni93@gmail.com)
+- Email: [gianlucacioni93@gmail.com](mailto:gianlucacioni93@gmail.com)
 - LinkedIn: [Gianluca Cioni](https://www.linkedin.com/in/gianluca-cioni)
 
 ---
