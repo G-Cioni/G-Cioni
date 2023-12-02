@@ -4,31 +4,30 @@
 [![Linkedin: gianluca-cioni](https://img.shields.io/badge/-gianluca--cioni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gianluca-cioni/)](https://www.linkedin.com/in/gianluca-cioni/)
 [![GitHub G-Cioni](https://img.shields.io/github/followers/G-Cioni?label=follow&style=social)](https://github.com/G-Cioni)
 
-A passionate Front End Developer with expertise in JavaScript, TypeScript, and React.js, I bring to the table a unique background in hospitality and real estate, offering a deep comprehension of user needs combined with technical expertise. Fluent in English, Italian, and Spanish, I thrive in diverse team environments and am on a continuous journey to evolve into a full-stack development role.
+As a passionate Front End Developer with a rich background in JavaScript, TypeScript, and React.js, I blend a unique history in hospitality and real estate with technical prowess, offering a nuanced understanding of user needs. My multilingual fluency in English, Italian, and Spanish complements my technical skills, enabling me to excel in diverse and dynamic team environments. Currently, I am on a quest to transition into full-stack development, driven by my curiosity and love for continuous learning in technology.
 
 ```javascript
 const gianluca = {
-  code: [React, Typescript, Javascript, HTML, CSS, SCSS],
-  tools: [Redux, React Query, Moment.js, Neovim],
+  code: ["React", "TypeScript", "JavaScript", "HTML", "CSS", "SCSS"],
+  tools: ["Redux", "React Query", "Moment.js", "Neovim", "Mantine", "Tanstack React Table", "Zustand", "Axios"],
+  pastExperience: {
+    hospitality: "Experienced in guest relations, sales, and management in hospitality industry",
+    realEstate: "Real estate agent with a client-centric approach and effective communication skills",
+  },
   languages: ["English (Native)", "Italian (Native)", "Spanish (Proficient)", "French (Beginner)"],
-  workplace: {
-              current: "Frontiere (formerly Greenvulcano)",
-              past: ["Hotel Savoy ****", "Remax", "Hotel XX Settembre ***"]
-            },
-  challenge: "I am actively seeking to evolve into full-stack development"
-}
+  interests: ["Technology", "Continuous Learning", "Reading", "Psychology", "Philosophy", "Meditation", "History", "Chess"],
+};
 ```
 
-## 🎯 I’m currently focused on...
+# 🚀 My Current Focus
+- Actively pursuing full-stack development skills to expand my expertise beyond front-end technologies.
+- Exploring the integration of AI tools like ChatGPT-4 to streamline development processes and enhance coding efficiency.
+- Keeping up with the latest trends in technology and software development through continuous learning and experimentation.
+- Seeking opportunities to apply new learnings in practical settings, enhancing both personal growth and professional output.
+- Looking to connect with like-minded professionals and tech enthusiasts for collaboration, knowledge exchange, and community involvement.
 
-- Expanding my horizons into full-stack development.
-- Diving deeper into Redux and React Query.
-- Exploring AI resources like ChatGPT-4 to accelerate development processes.
+# 🌍 My Vision
+- To be at the forefront of software development, blending technical skills with a deep understanding of diverse user needs.
+- To continuously evolve as a developer and thinker, pushing the boundaries of what's possible in tech.
 
-## 📫 How to reach me...
-
-- Twitter: [@gianluca-cioni](https://twitter.com/gianluca-cioni)
-- Email: [gianlucacioni93@gmail.com](mailto:gianlucacioni93@gmail.com)
-- LinkedIn: [Gianluca Cioni](https://www.linkedin.com/in/gianluca-cioni)
-
----
+Feel free to connect with me for collaborations, tech discussions, or just a good chat about the latest in technology and programming!
