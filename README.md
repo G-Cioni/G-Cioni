@@ -9,14 +9,40 @@ As a passionate Front End Developer with a rich background in JavaScript, TypeSc
 ```javascript
 const gianluca = {
   code: ["React", "TypeScript", "JavaScript", "HTML", "CSS", "SCSS"],
-  tools: ["Redux", "React Query", "Moment.js", "Neovim", "Mantine", "Tanstack React Table", "Zustand", "Axios"],
+  tools: [
+    "Redux",
+    "React Query",
+    "Moment.js",
+    "Neovim",
+    "Mantine",
+    "Tanstack React Table",
+    "Zustand",
+    "Axios",
+  ],
   pastExperience: {
-    hospitality: "Experienced in guest relations, sales, and management in hospitality industry",
-    realEstate: "Real estate agent with a client-centric approach and effective communication skills",
+    hospitality:
+      "Experienced in guest relations, sales, and management in hospitality industry",
+    realEstate:
+      "Real estate agent with a client-centric approach and effective communication skills",
   },
-  languages: ["English (Native)", "Italian (Native)", "Spanish (Proficient)", "French (Beginner)"],
-  interests: ["Technology", "Continuous Learning", "Reading", "Psychology", "Philosophy", "Meditation", "History", "Chess"],
+  languages: [
+    "English (Native)",
+    "Italian (Native)",
+    "Spanish (Proficient)",
+    "French (Beginner)",
+  ],
+  interests: [
+    "Technology",
+    "Continuous Learning",
+    "Reading",
+    "Psychology",
+    "Philosophy",
+    "Meditation",
+    "History",
+    "Chess",
+  ],
 };
+
 ```
 
 # 🚀 My Current Focus
