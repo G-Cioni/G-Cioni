@@ -8,7 +8,7 @@ As a passionate Front End Developer with a rich background in JavaScript, TypeSc
 
 ```javascript
 const gianluca = {
-  code: ["React", "TypeScript", "JavaScript", "HTML", "CSS", "SCSS"],
+  code: ["React", "TypeScript", "JavaScript", "Node", "HTML", "CSS", "SCSS"],
   tools: [
     "Redux",
     "React Query",
@@ -18,6 +18,11 @@ const gianluca = {
     "Tanstack React Table",
     "Zustand",
     "Axios",
+    "Styled Components",
+    "i18next",
+    "React Table",
+    "React Calander",
+    "DateFNS",
   ],
   pastExperience: {
     hospitality:
