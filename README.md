@@ -1,64 +1,60 @@
-# Hello there, I'm Gianluca Cioni 👋
+# 🚀 Hello there, I'm Gianluca Cioni 👋  
 
-[![Twitter: gianlucacioni93](https://img.shields.io/twitter/follow/gianlucacioni93?style=social)](https://twitter.com/gianlucacioni93)
+### 📌 Connect with me  
+
+[![X: gianlucacioni93](https://img.shields.io/twitter/follow/gianlucacioni93?style=social)](https://x.com/gianlucacioni93)
 [![Linkedin: gianluca-cioni](https://img.shields.io/badge/-gianluca--cioni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gianluca-cioni/)](https://www.linkedin.com/in/gianluca-cioni/)
 [![GitHub G-Cioni](https://img.shields.io/github/followers/G-Cioni?label=follow&style=social)](https://github.com/G-Cioni)
 
-As a passionate Front End Developer with a rich background in JavaScript, TypeScript, and React.js, I blend a unique history in hospitality and real estate with technical prowess, offering a nuanced understanding of user needs. My multilingual fluency in English, Italian, and Spanish complements my technical skills, enabling me to excel in diverse and dynamic team environments. Currently, I am on a quest to transition into full-stack development, driven by my curiosity and love for continuous learning in technology.
+---
+
+## 👨‍💻 About Me  
+I am a **Senior Front-End Developer** with strong expertise in **JavaScript, TypeScript, and React.js**, currently expanding into **full-stack development**. My background in **hospitality and real estate** has honed my ability to understand user needs, problem-solving, and client interactions.  
+
+With **years of professional experience**, I stand out for my ability to **quickly grasp new concepts**, **optimize existing solutions**, and **mentor junior developers**. My strong **soft skills** and technical versatility have led me to take on responsibilities beyond coding, including representing my company at client sites.  
+
+I am currently working on my **startup, "Connecting Beyond,"** which digitalizes memorials by integrating **QR codes with online tribute pages**. This project is built using **Next.js, Supabase, and PostgreSQL**, and is part of my transition to full-stack development.  
+
+My tech journey is driven by a **love for problem-solving, continuous learning, and exploring cutting-edge technologies**.  
+
+---
+
+## 🛠️ Tech Stack  
 
 ```javascript
 const gianluca = {
-  code: ["React", "TypeScript", "JavaScript", "Node", "HTML", "CSS", "SCSS"],
+  code: ["React", "TypeScript", "JavaScript", "Node.js", "Next.js", "HTML", "CSS", "SCSS"],
   tools: [
-    "Redux",
-    "React Query",
-    "Moment.js",
-    "Neovim",
-    "Mantine",
-    "Tanstack React Table",
-    "Zustand",
-    "Axios",
-    "Styled Components",
-    "i18next",
-    "React Table",
-    "React Calander",
-    "DateFNS",
+    "Redux", "React Query", "TanStack React Table", "Zustand", "Mantine", "i18next",
+    "Axios", "Styled Components", "Date-fns", "React Calendar", "Neovim"
   ],
+  backend: ["Supabase", "PostgreSQL", "Node.js"],
   pastExperience: {
-    hospitality:
-      "Experienced in guest relations, sales, and management in hospitality industry",
-    realEstate:
-      "Real estate agent with a client-centric approach and effective communication skills",
+    hospitality: "Experienced in guest relations, sales, and management in the hospitality industry",
+    realEstate: "Former real estate agent with strong client communication skills",
   },
   languages: [
-    "English (Native)",
-    "Italian (Native)",
-    "Spanish (Proficient)",
-    "French (Beginner)",
+    "English (Fluent)", "Italian (Native)", "Spanish (Proficient)", "French (Beginner)"
   ],
   interests: [
-    "Technology",
-    "Continuous Learning",
-    "Reading",
-    "Psychology",
-    "Philosophy",
-    "Meditation",
-    "History",
-    "Chess",
+    "Technology", "Startups", "Continuous Learning", "Reading", "Psychology",
+    "Philosophy (Nietzsche)", "Meditation", "Chess", "Fitness", "Longevity"
   ],
 };
-
 ```
 
-# 🚀 My Current Focus
-- Actively pursuing full-stack development skills to expand my expertise beyond front-end technologies.
-- Exploring the integration of AI tools like ChatGPT-4 to streamline development processes and enhance coding efficiency.
-- Keeping up with the latest trends in technology and software development through continuous learning and experimentation.
-- Seeking opportunities to apply new learnings in practical settings, enhancing both personal growth and professional output.
-- Looking to connect with like-minded professionals and tech enthusiasts for collaboration, knowledge exchange, and community involvement.
+---
 
-# 🌍 My Vision
-- To be at the forefront of software development, blending technical skills with a deep understanding of diverse user needs.
-- To continuously evolve as a developer and thinker, pushing the boundaries of what's possible in tech.
+## 🚀 My Current Focus  
+🔹 **Full-Stack Development** – Expanding my expertise beyond front-end technologies, particularly with **Next.js and Supabase**.  
+🔹 **Startup Growth** – Developing **"Connecting Beyond"**, refining its technical architecture, and exploring monetization strategies.  
+🔹 **AI & Automation** – Exploring the **integration of AI tools** (e.g., ChatGPT, automation scripts) to enhance efficiency in software development.  
 
-Feel free to connect with me for collaborations, tech discussions, or just a good chat about the latest in technology and programming!
+---
+
+## 🌍 My Vision  
+I aim to:  
+🚀 Be at the forefront of **software development**, blending technical expertise with **entrepreneurial thinking**.  
+🤝 Connect with **like-minded professionals**, whether for collaborations, deep tech discussions, or startup growth.  
+
+I’m always open to discussing **tech, business, investments, and personal growth**. Feel free to **connect with me!** 🚀
