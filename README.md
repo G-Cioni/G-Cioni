@@ -2,7 +2,7 @@
 
 ### 📌 Connect with me  
 
-[![X: gianlucacioni93](https://img.shields.io/twitter/follow/gianlucacioni93?style=social)](https://x.com/gianlucacioni93)
+[![X: mr_cioni](https://img.shields.io/twitter/follow/mr_cioni?style=social)](https://x.com/mr_cioni)
 [![Linkedin: gianluca-cioni](https://img.shields.io/badge/-gianluca--cioni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gianluca-cioni/)](https://www.linkedin.com/in/gianluca-cioni/)
 [![GitHub G-Cioni](https://img.shields.io/github/followers/G-Cioni?label=follow&style=social)](https://github.com/G-Cioni)
 
