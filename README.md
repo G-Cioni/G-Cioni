@@ -2,8 +2,8 @@
 
 ### 📌 Connect with me  
 
-[![X: mr_cioni](https://img.shields.io/twitter/follow/mr_cioni?style=social)](https://x.com/mr_cioni)
-[![Linkedin: gianluca-cioni](https://img.shields.io/badge/-gianluca--cioni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gianluca-cioni/)](https://www.linkedin.com/in/gianluca-cioni/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/gianluca-cioni/)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/mr_cioni)
 [![GitHub G-Cioni](https://img.shields.io/github/followers/G-Cioni?label=follow&style=social)](https://github.com/G-Cioni)
 
 ---
