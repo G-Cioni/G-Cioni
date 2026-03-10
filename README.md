@@ -62,7 +62,7 @@ I build and improve software across the full lifecycle:
 - product iteration
 
 ### AI-augmented development
-I use AI heavily in my workflow, but not as a substitute for engineering judgment.
+I use AI as an execution multiplier for testing, refactoring, implementation, and exploration — not as a substitute for engineering judgment.
 
 I use it to accelerate:
 
@@ -110,6 +110,18 @@ This project reflects a lot of what defines me technically:
 
 ---
 
+## Selected work
+
+### Connecting Beyond
+End-to-end digital memorial platform built as the sole technical engineer, covering architecture, backend logic, auth and permissions, testing, uploads, rate limiting, logging, and reusable core extraction.
+
+### Reusable platform foundations
+Work around extracting and refining reusable structures, shared patterns, and product-ready foundations to make future development faster and more consistent.
+
+### Systems and architecture
+Documentation and technical thinking around platform structure, reusable components, and scalable project organization.
+
+---
 ## Selected strengths
 
 - Building products **end-to-end**
