@@ -195,7 +195,7 @@ That background still helps me today when I need to:
 
 ## Languages
 
-- **English** — fluent / near-native
+- **English** — native
 - **Italian** — native
 - **Spanish** — proficient
 - **French** — beginner
