@@ -1,227 +1,54 @@
-<div align="center">
-
 # Gianluca Cioni
 
-### Full-Stack Product Engineer  
-**TypeScript · Next.js · React · Supabase · PostgreSQL · AI-augmented workflows**
+**Software Engineer**  
+Technical Solutions · Product Engineering · End-to-End Delivery
 
-I build real products end-to-end, with a strong focus on **product thinking**, **reusable systems**, and **AI as an execution multiplier**.
+I turn ambiguous business problems into working software — bridging stakeholder discovery, technical solution design, hands-on implementation, validation, and production delivery.
 
-<p>
-  <a href="https://github.com/G-Cioni">
-    <img src="https://img.shields.io/github/followers/G-Cioni?label=GitHub&style=for-the-badge" alt="GitHub followers" />
-  </a>
-  <a href="https://www.linkedin.com/in/gianluca-cioni/">
-    <img src="https://img.shields.io/badge/LinkedIn-Gianluca%20Cioni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/mr_cioni">
-    <img src="https://img.shields.io/badge/X-@mr__cioni-111111?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
-  </a>
-</p>
+[gianlucacioni.com](https://gianlucacioni.com) · [LinkedIn](https://www.linkedin.com/in/gianluca-cioni/)
 
-</div>
+## How I operate
 
----
+My work spans the parts of delivery that often sit between pure implementation and solution ownership: clarifying requirements with customers and stakeholders, translating constraints into a technical solution, building the software, validating it with users, and supporting production delivery.
 
-## About me
+**Scope I work across:**  
+`Discovery / Requirements` → `Technical Solution / LLD` → `Implementation` → `Testing / UAT` → `Production / Hypercare`
 
-I’m a **Full-Stack Product Engineer** based in Rome, focused on building products that are not just technically solid, but also **clear, scalable, and useful in the real world**.
+The exact scope varies by project.
 
-My work sits at the intersection of:
+## Selected evidence
 
-- **software engineering**
-- **product thinking**
-- **systems design**
-- **AI-augmented execution**
+Most production and client code is private or confidential. The examples below describe delivery scope without exposing client identities, private repositories, or confidential architecture.
 
-I’m especially strong when a problem is still messy, ambiguous, or not fully shaped yet.  
-That’s where I do my best work: turning rough ideas into structured systems, then shipping them end-to-end.
+### Enterprise solution delivery — anonymized
 
-I currently work across production software and startup projects, with a strong preference for environments that value:
+- Clarified operational requirements and business constraints directly with client stakeholders in English.
+- Authored Low-Level Design documentation translating business requirements into the technical solution and implementation approach.
+- Implemented backend and technical changes while collaborating across frontend, UX/UI, QA, and project management.
+- Structured test scenarios, supported UAT, and supported production release and hypercare.
 
-- autonomy
-- speed
-- ownership
-- good judgment
-- practical ambition
+### [Koordinato](https://koordinato.com) — 0-to-1 hospitality product work
 
----
+- Used hospitality domain discovery and operator conversations to map real workflow friction.
+- Designed AI-assisted operational workflows and built a working pilot for validation with hotel operators.
+- Worked across product design, application flows, data architecture, implementation, and iteration from feedback.
 
-## What I do
+### [Connecting Beyond](https://connectingbeyond.com) — product architecture & independent execution
 
-### Product engineering
-I build and improve software across the full lifecycle:
+- Co-founded and built the product across architecture, full-stack implementation, data/auth/storage flows, deployment, and UX.
+- Used the product as an end-to-end engineering environment for system design, delivery, and long-term maintainability.
 
-- frontend architecture
-- backend logic
-- authentication and permissions
-- database design
-- testing strategy
-- reusable foundations
-- developer workflows
-- product iteration
+## Technical toolkit
 
-### AI-augmented development
-I use AI as an execution multiplier for testing, refactoring, implementation, and exploration — not as a substitute for engineering judgment.
+**Languages & application engineering:** TypeScript, JavaScript, Java, Python  
+**Frontend:** React, Next.js  
+**Backend & data:** Spring Boot, Node.js, FastAPI, PostgreSQL  
+**Delivery & quality:** Docker, Git/GitHub, automated testing, release workflows
 
-I use it to accelerate:
+## AI as engineering leverage
 
-- testing
-- refactoring
-- implementation
-- exploration
-- scaffolding
-- iteration speed
+I use modern AI systems and developer agents to increase delivery speed, exploration capacity, test coverage, and documentation. Architecture, trade-offs, validation, and production decisions remain grounded in engineering judgment.
 
-I still keep **architecture, tradeoffs, validation, and direction** firmly human-led.
+## Customer-facing foundation
 
-### Systems thinking
-I naturally think in systems:
-
-- reusable patterns
-- scalable structures
-- low-friction workflows
-- clear boundaries
-- solutions that survive real-world complexity
-
----
-
-## Current focus
-
-### [Connecting Beyond](https://connectingbeyond.com)
-A digital memorial platform designed to preserve memory online in a meaningful, lasting way.
-
-I’m building it **end-to-end as the sole engineer**, using **TypeScript, Next.js, Supabase, and PostgreSQL**.
-
-My work includes:
-
-- architecture
-- frontend
-- backend logic
-- auth and permissions
-- uploads and storage flows
-- rate limiting
-- application logging
-- automated testing
-- reusable core extraction
-
-This project reflects a lot of what defines me technically:
-**ownership, product sense, system design, and execution speed**.
-
----
-
-## Selected work
-
-### Connecting Beyond
-End-to-end digital memorial platform built as the sole technical engineer, covering architecture, backend logic, auth and permissions, testing, uploads, rate limiting, logging, and reusable core extraction.
-
-### Reusable platform foundations
-Work around extracting and refining reusable structures, shared patterns, and product-ready foundations to make future development faster and more consistent.
-
-### Systems and architecture
-Documentation and technical thinking around platform structure, reusable components, and scalable project organization.
-
----
-## Selected strengths
-
-- Building products **end-to-end**
-- Turning vague problems into **structured solutions**
-- Designing **reusable foundations**
-- Working comfortably across **frontend + backend + product**
-- Using AI to **compress execution cycles**
-- Communicating well with both **technical and non-technical stakeholders**
-- Staying pragmatic without losing architectural judgment
-
----
-
-## Tech I use most
-
-<div align="left">
-
-### Core
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
-
-### Data & backend
-![Supabase](https://img.shields.io/badge/Supabase-111111?style=flat-square&logo=supabase&logoColor=3ECF8E)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=4169E1)
-
-### Frontend ecosystem
-![TanStack Query](https://img.shields.io/badge/TanStack%20Query-111111?style=flat-square&logo=reactquery&logoColor=FF4154)
-![Zustand](https://img.shields.io/badge/Zustand-111111?style=flat-square&logoColor=white)
-![i18next](https://img.shields.io/badge/i18next-111111?style=flat-square&logo=i18next&logoColor=26A69A)
-
-### Workflow
-![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white)
-![AI Assisted Development](https://img.shields.io/badge/AI--Assisted%20Development-111111?style=flat-square&logo=openai&logoColor=white)
-
-</div>
-
----
-
-## What I care about
-
-I’m drawn to software that has:
-
-- **clarity over noise**
-- **simplicity over unnecessary complexity**
-- **fast iteration without reckless shortcuts**
-- **real usefulness, not just technical elegance**
-- **systems that hold up under real constraints**
-
-I care about the quality of the thinking behind the code, not just the code itself.
-
----
-
-## Background
-
-Before moving fully into tech, I worked in **hospitality** and **real estate**.
-
-That gave me a useful advantage:
-I’m comfortable with people, pressure, ambiguity, and client-facing communication.
-
-That background still helps me today when I need to:
-
-- communicate clearly
-- understand user needs
-- navigate messy real-world constraints
-- work well across technical and non-technical contexts
-
----
-
-## Languages
-
-- **English** — native
-- **Italian** — native
-- **Spanish** — proficient
-- **French** — beginner
-
----
-
-## Let’s connect
-
-I’m especially interested in:
-
-- product engineering
-- startup environments
-- AI-augmented software development
-- reusable platform foundations
-- ambitious teams building real products
-
-<p>
-  <a href="https://www.linkedin.com/in/gianluca-cioni/">LinkedIn</a> ·
-  <a href="https://x.com/mr_cioni">X</a> ·
-  <a href="https://github.com/G-Cioni">GitHub</a>
-</p>
-
----
-
-<div align="center">
-
-**Build useful things. Make them clear. Make them real.**
-
-</div>
+Before software engineering, I worked in hospitality and real estate. That background remains useful in technical delivery: active listening, clear customer communication, comfort with ambiguity and pressure, and commercial context.
