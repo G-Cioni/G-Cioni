@@ -14,14 +14,14 @@ I work best where technical execution meets ambiguity: clarify the real problem,
 
 ## Delivery Ledger
 
-Most client production code and architecture cannot be published. The **Delivery Ledger** separates two kinds of proof: sanitized professional delivery evidence and newly written public reference systems that make engineering decisions directly inspectable.
+Most client production code and architecture cannot be published. The **Delivery Ledger** uses only evidence with a clear provenance: sanitized professional delivery work and technical artifacts that were genuinely produced and made public as part of real projects.
 
 [![Delivery Ledger — evidence path from ambiguity to production](./delivery-ledger/assets/delivery-graph.svg)](./delivery-ledger/README.md)
 
 **[Open the Delivery Ledger →](./delivery-ledger/README.md)**
 
 - **[CF-001 · Enterprise change delivery — anonymized](./delivery-ledger/casefiles/CF-001-enterprise-change-delivery/README.md)** — stakeholder clarification → LLD → implementation → UAT → production support.
-- **[CF-002 · Local Presence Engine](./delivery-ledger/casefiles/CF-002-local-presence-engine/README.md)** — public clean-room code with deterministic decisions, SQLite transactions, idempotency, rollback, restart recovery, and tests. **[Inspect the code →](./delivery-ledger/reference-systems/local-presence-engine/README.md)**
+- **[CF-002 · Connecting Beyond system architecture — prior art](./delivery-ledger/casefiles/CF-002-connecting-beyond-prior-art/README.md)** — a dated public technical specification covering data modeling, license lifecycle, intermediary activation, state resolution, concurrency-safe claiming, security controls, and API design. **[Inspect the original publication →](https://github.com/G-Cioni/sys-arch-doc)**
 
 ## Selected proof
 
@@ -34,6 +34,13 @@ Most client production code and architecture cannot be published. The **Delivery
 - Implemented backend and technical changes while collaborating across frontend, UX/UI, QA, and project management.
 - Structured test scenarios, supported UAT, production release, and post-release hypercare.
 
+### [Connecting Beyond](https://connectingbeyond.com) — product architecture & independent execution
+
+**Product architecture · Full-stack implementation · Data/Auth/Storage · Deployment · UX**
+
+- Co-founded and built the product across architecture, full-stack implementation, data/auth/storage flows, deployment, and UX.
+- Co-authored a public prior-art technical specification documenting one of the product's offline-to-online license and physical-media mechanisms: [system architecture disclosure](https://github.com/G-Cioni/sys-arch-doc).
+
 ### [Koordinato](https://koordinato.com) — 0→1 hospitality product work
 
 **Domain discovery · AI-assisted workflows · Full-stack pilot · Operator validation**
@@ -41,13 +48,6 @@ Most client production code and architecture cannot be published. The **Delivery
 - Used hospitality domain discovery and operator conversations to map real workflow friction.
 - Designed AI-assisted operational workflows and built a working pilot for validation with hotel operators.
 - Worked across product design, application flows, data architecture, implementation, and feedback-driven iteration.
-
-### [Connecting Beyond](https://connectingbeyond.com) — product architecture & independent execution
-
-**Product architecture · Full-stack implementation · Data/Auth/Storage · Deployment · UX**
-
-- Co-founded and built the product across architecture, full-stack implementation, data/auth/storage flows, deployment, and UX.
-- Used the product as an end-to-end engineering environment for system design, delivery, and long-term maintainability.
 
 ## Engineering toolkit
 
