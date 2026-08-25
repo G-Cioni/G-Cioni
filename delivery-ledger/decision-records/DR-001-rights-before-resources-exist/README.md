@@ -128,7 +128,7 @@ The exact private schema, repository paths, API routes, locking details and cust
 
 ## Provenance
 
-The underlying requirements and several hard architecture constraints were user-originated: temporary creation delegation, separation from persistent editor access, collaborator-level rather than employee-level durable access, reuse/revocation behavior, and the need to preserve the ordinary participation model after creation.
+The underlying requirements and several hard architecture constraints were **defined and refined by Gianluca Cioni**: temporary creation delegation, separation from persistent editor access, collaborator-level rather than employee-level durable access, reuse/revocation behavior, and preservation of the ordinary participation model after creation.
 
 Implementation was developed in an **AI-assisted engineering workflow** and then iterated against those requirements and automated tests. This record is therefore evidence of requirement decomposition, architecture decisions, lifecycle modeling and verification — **not a claim that every implementation line was manually authored**.
 
