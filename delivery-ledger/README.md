@@ -6,10 +6,19 @@ Most client production code and internal architecture cannot be published. This 
 
 The ledger uses evidence with a clear provenance:
 
-1. **Sanitized professional casefiles** — real delivery work described without reconstructing confidential systems.
-2. **Existing public technical artifacts** — documents or systems that were genuinely produced and published as part of real projects, with their original provenance preserved.
+1. **Casefiles** — real delivery work or existing public technical artifacts.
+2. **Decision records** — one consequential architecture decision, including rejected alternatives and failure modes.
+3. **Field notes** — one reusable engineering lesson extracted from a real system constraint.
+
+AI-assisted implementation is identified where it materially affects authorship. The ledger distinguishes **requirements and decisions** from **code production** rather than treating repository ownership as proof that every line was manually authored.
 
 ## Evidence model
+
+| Evidence type | Primary question |
+| --- | --- |
+| **Casefile** | What did the real delivery situation require from discovery through validation/shipping? |
+| **Decision record** | Why was this system shaped this way instead of the obvious alternatives? |
+| **Field note** | What reusable engineering rule emerged from the real constraint? |
 
 A casefile can expose evidence across five stages:
 
@@ -39,9 +48,25 @@ A dated public technical specification co-authored by Gianluca Cioni and the Con
 
 **[Inspect the original public repository →](https://github.com/G-Cioni/sys-arch-doc)**
 
+## Decision records
+
+### [DR-001 · Rights before resources exist](./decision-records/DR-001-rights-before-resources-exist/README.md)
+
+`Temporary creation authority` → `Atomic consumption` → `Persistent participation`
+
+A public-safe architecture record about granting one-use authority before its target resource exists, then crossing the creation boundary without confusing temporary capability, ownership, and durable editor access. It includes rejected alternatives, concurrency/failure modes, model evolution, verification strategy, and an explicit AI-assistance provenance note.
+
+## Field notes
+
+### [FN-001 · Rate limiting when many legitimate users share one IP](./field-notes/FN-001-rate-limiting-shared-networks/README.md)
+
+`Threat model` → `Abuse identity` → `Layered limiter key` → `Behavioral verification`
+
+A reusable engineering lesson from a real shared-network constraint: strict IP-only limiting can punish legitimate groups, so the primary key should approximate the identity of the abuse being controlled while a network-level limiter remains a broad safety net.
+
 ## Disclosure standard
 
-A casefile must not publish:
+An evidence unit must not publish:
 
 - client or employer-confidential identifiers;
 - private repository names or links;
@@ -51,12 +76,14 @@ A casefile must not publish:
 - diagrams that reconstruct confidential architecture;
 - metrics or outcomes that cannot be supported.
 
-When a detail is intentionally withheld, the casefile says so rather than replacing it with invented specificity.
+When a detail is intentionally withheld, the evidence unit says so rather than replacing it with invented specificity.
 
 For existing public artifacts, the ledger preserves the original authorship and evidence boundary. It does not upgrade team work into sole authorship, or convert claims made in a source document into independently verified facts.
+
+For private AI-assisted work, the ledger does not equate a commit under Gianluca's account with manual code authorship. The public claim is limited to provenance that can actually be supported: requirements originated or corrected by Gianluca, architecture constraints he selected, implemented behavior found in the repository, and verification evidence where available.
 
 ## Why this exists
 
 A CV can say “end-to-end delivery.” A repository should make that claim easier to interrogate.
 
-CF-001 makes professional delivery scope inspectable without exposing confidential systems. CF-002 points to a genuine public technical artifact whose provenance, architecture, implementation excerpts, and publication context can be inspected directly.
+The casefiles make delivery scope inspectable. Decision records expose the reasoning behind consequential system boundaries. Field notes make the resulting engineering lessons reusable without disclosing the private implementation that produced them.
