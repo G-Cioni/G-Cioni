@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-labelledby="title desc">
+  <title id="title">Delivery Ledger — CF-001 evidence path</title>
+  <desc id="desc">A public-safe engineering evidence path from stakeholder discovery through technical design, implementation, validation, production release and hypercare.</desc>
+  <style>
+    .bg { fill:#0d1117; }
+    .panel { fill:#161b22; stroke:#30363d; }
+    .grid { stroke:#30363d; stroke-opacity:.28; }
+    .muted { fill:#8b949e; }
+    .text { fill:#f0f6fc; }
+    .line { stroke:#58a6ff; }
+    .node { fill:#58a6ff; }
+    .chip { fill:#21262d; stroke:#30363d; }
+    @media (prefers-color-scheme: light) {
+      .bg { fill:#ffffff; }
+      .panel { fill:#f6f8fa; stroke:#d0d7de; }
+      .grid { stroke:#d8dee4; stroke-opacity:.5; }
+      .muted { fill:#57606a; }
+      .text { fill:#24292f; }
+      .line { stroke:#0969da; }
+      .node { fill:#0969da; }
+      .chip { fill:#ffffff; stroke:#d0d7de; }
+    }
+  </style>
+  <defs>
+    <pattern id="gridPattern" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" class="grid" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect class="bg" width="1280" height="300" rx="22"/>
+  <rect width="1280" height="300" rx="22" fill="url(#gridPattern)"/>
+  <rect x="1" y="1" width="1278" height="298" rx="21" fill="none" class="panel"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <text x="56" y="56" class="muted" font-size="14" font-weight="700" letter-spacing="2">DELIVERY LEDGER / CF-001</text>
+    <text x="56" y="92" class="text" font-size="24" font-weight="700">Enterprise change delivery — anonymized</text>
+    <text x="56" y="119" class="muted" font-size="15">public-safe evidence path · shipped</text>
+
+    <line x1="92" y1="190" x2="1188" y2="190" class="line" stroke-width="3"/>
+
+    <g text-anchor="middle">
+      <circle cx="92" cy="190" r="9" class="node"/>
+      <text x="92" y="164" class="text" font-size="14" font-weight="700">DISCOVER</text>
+      <text x="92" y="221" class="muted" font-size="12">stakeholders</text>
+
+      <circle cx="366" cy="190" r="9" class="node"/>
+      <text x="366" y="164" class="text" font-size="14" font-weight="700">DESIGN</text>
+      <text x="366" y="221" class="muted" font-size="12">LLD</text>
+
+      <circle cx="640" cy="190" r="9" class="node"/>
+      <text x="640" y="164" class="text" font-size="14" font-weight="700">BUILD</text>
+      <text x="640" y="221" class="muted" font-size="12">backend / technical</text>
+
+      <circle cx="914" cy="190" r="9" class="node"/>
+      <text x="914" y="164" class="text" font-size="14" font-weight="700">VALIDATE</text>
+      <text x="914" y="221" class="muted" font-size="12">tests / UAT</text>
+
+      <circle cx="1188" cy="190" r="9" class="node"/>
+      <text x="1188" y="164" class="text" font-size="14" font-weight="700">SHIP</text>
+      <text x="1188" y="221" class="muted" font-size="12">prod / hypercare</text>
+    </g>
+
+    <rect x="56" y="250" width="300" height="28" rx="14" class="chip"/>
+    <text x="206" y="269" class="muted" text-anchor="middle" font-size="12">evidence, not confidential implementation</text>
+  </g>
+</svg>
