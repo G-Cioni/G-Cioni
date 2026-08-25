@@ -1,4 +1,4 @@
-version: 1
+version: 2
 name: delivery-ledger
 purpose: "Public engineering evidence from ambiguity to production"
 casefiles:
@@ -43,3 +43,42 @@ casefiles:
     public_safe: true
     confidential_details_withheld: false
     sole_authorship_claimed: false
+decision_records:
+  - id: DR-001
+    slug: rights-before-resources-exist
+    title: "Rights before resources exist"
+    status: published
+    evidence_type: public-safe-private-system-decision
+    provenance:
+      requirement_origin: user-originated
+      architecture_evolution: user-directed
+      implementation: ai-assisted
+      manual_code_authorship_claimed: false
+    capabilities:
+      - lifecycle-modeling
+      - authorization-design
+      - temporary-vs-durable-permissions
+      - concurrency-reasoning
+      - transactional-state-transition
+      - auditability
+      - requirements-refinement
+    public_safe: true
+    confidential_details_withheld: true
+field_notes:
+  - id: FN-001
+    slug: rate-limiting-shared-networks
+    title: "Rate limiting when many legitimate users share one IP"
+    status: published
+    evidence_type: public-safe-private-system-lesson
+    provenance:
+      requirement_origin: user-originated
+      implementation: ai-assisted
+      manual_code_authorship_claimed: false
+    capabilities:
+      - abuse-prevention
+      - threat-modeling
+      - rate-limiting
+      - shared-network-design
+      - behavioral-testing
+    public_safe: true
+    confidential_details_withheld: true
