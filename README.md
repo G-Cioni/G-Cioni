@@ -14,7 +14,7 @@ I work best where technical execution meets ambiguity: clarify the real problem,
 
 ## Delivery Ledger
 
-Most client production code and architecture cannot be published. The **Delivery Ledger** uses only evidence with a clear provenance: sanitized professional delivery work and technical artifacts that were genuinely produced and made public as part of real projects.
+Most client production code and architecture cannot be published. The **Delivery Ledger** uses only evidence with a clear provenance: sanitized professional delivery, genuine public artifacts, decision records, and engineering field notes extracted from real system constraints.
 
 [![Delivery Ledger — evidence path from ambiguity to production](./delivery-ledger/assets/delivery-graph.svg)](./delivery-ledger/README.md)
 
@@ -22,6 +22,8 @@ Most client production code and architecture cannot be published. The **Delivery
 
 - **[CF-001 · Enterprise change delivery — anonymized](./delivery-ledger/casefiles/CF-001-enterprise-change-delivery/README.md)** — stakeholder clarification → LLD → implementation → UAT → production support.
 - **[CF-002 · Connecting Beyond system architecture — prior art](./delivery-ledger/casefiles/CF-002-connecting-beyond-prior-art/README.md)** — a dated public technical specification covering data modeling, license lifecycle, intermediary activation, state resolution, concurrency-safe claiming, security controls, and API design. **[Inspect the original publication →](https://github.com/G-Cioni/sys-arch-doc)**
+- **[DR-001 · Rights before resources exist](./delivery-ledger/decision-records/DR-001-rights-before-resources-exist/README.md)** — one-use creation authority → atomic consumption → durable participation; includes rejected alternatives, failure modes, model evolution, and explicit AI-assistance provenance.
+- **[FN-001 · Rate limiting shared networks](./delivery-ledger/field-notes/FN-001-rate-limiting-shared-networks/README.md)** — why strict IP-only limiting fails when many legitimate users share one connection, and how to choose limiter keys from the abuse identity instead.
 
 ## Selected proof
 
