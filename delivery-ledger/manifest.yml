@@ -21,26 +21,25 @@ casefiles:
     public_safe: true
     confidential_details_withheld: true
   - id: CF-002
-    slug: local-presence-engine
-    title: "Local Presence Engine — public reference implementation"
-    status: shipped-reference
-    evidence_type: clean-room-public-reference-system
-    reference_system: local-presence-engine
+    slug: connecting-beyond-prior-art
+    title: "Connecting Beyond system architecture — public prior-art disclosure"
+    status: published
+    evidence_type: existing-public-technical-artifact
+    source_repository: "https://github.com/G-Cioni/sys-arch-doc"
+    source_document: "spec_v1.pdf"
+    authorship: "Connecting Beyond – Cioni Gianluca & team"
+    publication_date: "2025-12-02"
     capabilities:
-      - deterministic-domain-modeling
-      - explicit-ambiguity-handling
-      - privacy-aware-token-boundary
-      - sqlite-transactional-persistence
-      - idempotent-event-processing
-      - rollback-safety
-      - restart-recovery
-      - automated-testing
-      - architecture-decision-records
+      - relational-data-modeling
+      - license-lifecycle-modeling
+      - offline-to-online-system-design
+      - intermediary-activation-flow
+      - idempotent-link-creation
+      - email-based-auto-claim
+      - dynamic-state-resolution
+      - concurrency-safe-claiming
+      - authentication-and-authorization-boundaries
+      - api-design
     public_safe: true
     confidential_details_withheld: false
-reference_systems:
-  - id: local-presence-engine
-    path: reference-systems/local-presence-engine
-    synthetic_data_only: true
-    copied_from_private_code: false
-    claims_private_deployment: false
+    sole_authorship_claimed: false
