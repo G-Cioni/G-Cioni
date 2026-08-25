@@ -165,8 +165,7 @@ Input acquisition would add peripheral complexity while proving less about the e
 
 This reference implementation does not include:
 
-- hardware or sensor integration;
-- image processing or OCR;
+- production input-acquisition integration;
 - networking or cloud services;
 - authentication or user management;
 - production deployment automation;
