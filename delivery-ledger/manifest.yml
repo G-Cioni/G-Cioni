@@ -1,0 +1,22 @@
+version: 1
+name: delivery-ledger
+purpose: "Public engineering evidence from ambiguity to production"
+casefiles:
+  - id: CF-001
+    slug: enterprise-change-delivery
+    title: "Enterprise change delivery — anonymized"
+    status: shipped
+    evidence_type: sanitized-professional-delivery
+    stages:
+      discover:
+        evidence: stakeholder-clarification
+      design:
+        evidence: low-level-design
+      build:
+        evidence: backend-and-technical-implementation
+      validate:
+        evidence: test-scenarios-and-uat-support
+      ship:
+        evidence: production-release-and-hypercare
+    public_safe: true
+    confidential_details_withheld: true
