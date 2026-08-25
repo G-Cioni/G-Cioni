@@ -50,8 +50,8 @@ decision_records:
     status: published
     evidence_type: public-safe-private-system-decision
     provenance:
-      requirement_origin: user-originated
-      architecture_evolution: user-directed
+      requirement_origin: gianluca-cioni
+      architecture_evolution: gianluca-directed
       implementation: ai-assisted
       manual_code_authorship_claimed: false
     capabilities:
@@ -71,7 +71,7 @@ field_notes:
     status: published
     evidence_type: public-safe-private-system-lesson
     provenance:
-      requirement_origin: user-originated
+      requirement_origin: gianluca-cioni
       implementation: ai-assisted
       manual_code_authorship_claimed: false
     capabilities:
