@@ -20,3 +20,27 @@ casefiles:
         evidence: production-release-and-hypercare
     public_safe: true
     confidential_details_withheld: true
+  - id: CF-002
+    slug: local-presence-engine
+    title: "Local Presence Engine — public reference implementation"
+    status: shipped-reference
+    evidence_type: clean-room-public-reference-system
+    reference_system: local-presence-engine
+    capabilities:
+      - deterministic-domain-modeling
+      - explicit-ambiguity-handling
+      - privacy-aware-token-boundary
+      - sqlite-transactional-persistence
+      - idempotent-event-processing
+      - rollback-safety
+      - restart-recovery
+      - automated-testing
+      - architecture-decision-records
+    public_safe: true
+    confidential_details_withheld: false
+reference_systems:
+  - id: local-presence-engine
+    path: reference-systems/local-presence-engine
+    synthetic_data_only: true
+    copied_from_private_code: false
+    claims_private_deployment: false
