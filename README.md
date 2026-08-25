@@ -14,12 +14,14 @@ I work best where technical execution meets ambiguity: clarify the real problem,
 
 ## Delivery Ledger
 
-Most client production code and architecture cannot be published. The **Delivery Ledger** exposes the part that can be shown safely: problem framing, delivery scope, technical design responsibility, validation, and production thinking — without publishing confidential code or reconstructing private systems.
+Most client production code and architecture cannot be published. The **Delivery Ledger** separates two kinds of proof: sanitized professional delivery evidence and newly written public reference systems that make engineering decisions directly inspectable.
 
 [![Delivery Ledger — evidence path from ambiguity to production](./delivery-ledger/assets/delivery-graph.svg)](./delivery-ledger/README.md)
 
-**[Open the Delivery Ledger →](./delivery-ledger/README.md)**  
-Start with **[CF-001 · Enterprise change delivery — anonymized](./delivery-ledger/casefiles/CF-001-enterprise-change-delivery/README.md)**.
+**[Open the Delivery Ledger →](./delivery-ledger/README.md)**
+
+- **[CF-001 · Enterprise change delivery — anonymized](./delivery-ledger/casefiles/CF-001-enterprise-change-delivery/README.md)** — stakeholder clarification → LLD → implementation → UAT → production support.
+- **[CF-002 · Local Presence Engine](./delivery-ledger/casefiles/CF-002-local-presence-engine/README.md)** — public clean-room code with deterministic decisions, SQLite transactions, idempotency, rollback, restart recovery, and tests. **[Inspect the code →](./delivery-ledger/reference-systems/local-presence-engine/README.md)**
 
 ## Selected proof
 
