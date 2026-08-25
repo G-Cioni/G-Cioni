@@ -12,9 +12,16 @@ I work best where technical execution meets ambiguity: clarify the real problem,
 
 *Scope varies by project; this is the delivery range I operate across, not a claim that every engagement covers every stage.*
 
-## Selected proof
+## Delivery Ledger
 
-Most production and client code is private or confidential. The examples below describe verified delivery scope without exposing client identities, private repositories, or confidential architecture.
+Most client production code and architecture cannot be published. The **Delivery Ledger** exposes the part that can be shown safely: problem framing, delivery scope, technical design responsibility, validation, and production thinking — without publishing confidential code or reconstructing private systems.
+
+[![Delivery Ledger — evidence path from ambiguity to production](./delivery-ledger/assets/delivery-graph.svg)](./delivery-ledger/README.md)
+
+**[Open the Delivery Ledger →](./delivery-ledger/README.md)**  
+Start with **[CF-001 · Enterprise change delivery — anonymized](./delivery-ledger/casefiles/CF-001-enterprise-change-delivery/README.md)**.
+
+## Selected proof
 
 ### Enterprise solution delivery — anonymized
 
