@@ -166,13 +166,7 @@ class _ProcessingSession:
         self._connection.execute(
             "INSERT INTO anomalies(anomaly_id, event_id, visit_id, kind, occurred_at_utc) "
             "VALUES (?, ?, ?, ?, ?)",
-            (
-                str(uuid4()),
-                str(event_id),
-                str(visit_id) if visit_id else None,
-                kind,
-                _iso_utc(occurred_at_utc),
-            ),
+            (str(uuid4()), str(event_id), str(visit_id) if visit_id else None, kind, _iso_utc(occurred_at_utc)),
         )
 
     def mark_processed(
