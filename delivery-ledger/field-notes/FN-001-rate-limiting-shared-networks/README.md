@@ -100,9 +100,9 @@ Exact thresholds, endpoint names, internal configuration and private source are 
 
 ## Provenance
 
-The shared-network requirement was explicitly user-originated. A strict per-IP design was rejected because it could block legitimate groups using the same public connection, and the implementation was required to distinguish account-, user-, resource- and network-level abuse.
+**Gianluca Cioni explicitly rejected strict IP-only limiting** for flows where legitimate groups may share one public connection. The behavioral requirement was to preserve account-, user-, resource- and network-level abuse protection without letting a shared IP become the primary identity for every action.
 
-Most of the implementation work was performed in an **AI-assisted coding workflow** under those behavioral requirements, followed by code inspection and automated verification. This note therefore demonstrates threat-model correction, system requirements and architecture judgment — **not a claim of manually typing every line of the limiter**.
+Most implementation work was performed in an **AI-assisted coding workflow** under those requirements, followed by code inspection and automated verification. This note therefore demonstrates threat-model correction, system requirements and architecture judgment — **not a claim of manually typing every line of the limiter**.
 
 ## General rule
 
